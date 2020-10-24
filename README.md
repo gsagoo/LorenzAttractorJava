@@ -23,40 +23,40 @@ this will produce a window with the Lorenz button and buttons to control the vie
 
 # Lorenz Java Class
 
-Parameters
-^^^^^^^^^^
+## Parameters
+
 (a, b, c) a parameters in the coupled Lorenz equations.
 Changing them will result in different attractors/
 fixed points/unstable spirals.
 
 
-n-plane
-^^^^^^^
+## n-plane
+
 The Lorenz attractor is projected onto the n-plane.
 The n-plane is the unique 2D plane that contains the point
 (n0. n1, n2) and is perpendicular to this vector too.
 
-Iterations
-^^^^^^^^^^
+## Iterations
+
 Number of points plotted.
 
-Rotation
-^^^^^^^^
+## Rotation
+
 Anticlockwise rotation about at axis that is perpendicular
 to the screen. Measured in degrees.
 
-Redraw
-^^^^^^
+## Redraw
+
 Draws the Lorenz trajectories according to the above values.
 
-Euler/R-K
-^^^^^^^^^
+## Euler/R-K
+
 Changes the scheme used in the finite differencing. The choices are:
 1. Runge-Kutta (4th order accurate) and 
 2. Euler's method ( 1st order accurate). 
 
-Orbit 90
-^^^^^^^^
+## Orbit 90
+
 Generates a small animation (10-20 frames) which shows the
 attractor as observed from the postion (n0, n1, n2) when the 
 orbit axis throught the orbit point P is being circled . 
