@@ -1,4 +1,4 @@
-# LorenzAttractorJava
+# Lorenz Attractor Java
 Java code that produces a GUI window to illustrate the Lorenz attractor and vary its parameters.
 
 # Compiling source code and running the class.
