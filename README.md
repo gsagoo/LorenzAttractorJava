@@ -6,13 +6,12 @@ Java code that produces a GUI window to illustrate the Lorenz attractor and vary
 
 1. Compile the Lorenz.java source code by typing the following at the command prompt 
 
-	javac Lorenz.java 
+   > javac Lorenz.java 
 
 (please take note that there is a "c" on the end of javac)
 
 2. The Lorenz.class executable file will then be compiled which is then run by typing 
-
-	java Lorenz
+    > java Lorenz
 
 this will produce a window with the Lorenz button and buttons to control the view.
 
